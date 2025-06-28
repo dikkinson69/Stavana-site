@@ -2,7 +2,7 @@
   "name": "Stavana-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dikkinson69.github.io/Stavana-site",
+  "homepage": "https://dikkinson69.github.io/stavana-site",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
@@ -12,13 +12,13 @@
     "swiper": "^11.2.8"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject",
+  "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
-  },
+},
   "eslintConfig": {
     "extends": [
       "react-app",
