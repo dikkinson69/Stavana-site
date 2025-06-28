@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/stavana-site/static/css/main.e4f97e32.css",
-    "main.js": "/stavana-site/static/js/main.20577a03.js",
-    "static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.ttf": "/stavana-site/static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.902e33b4a93fab853189.ttf",
-    "index.html": "/stavana-site/index.html",
-    "main.e4f97e32.css.map": "/stavana-site/static/css/main.e4f97e32.css.map",
-    "main.20577a03.js.map": "/stavana-site/static/js/main.20577a03.js.map"
+    "main.css": "/Stavana-site/static/css/main.24f52fc6.css",
+    "main.js": "/Stavana-site/static/js/main.20577a03.js",
+    "static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.ttf": "/Stavana-site/static/media/tt1018m__8162f819-e6ad-4691-bcae-ad63b764767d.902e33b4a93fab853189.ttf",
+    "index.html": "/Stavana-site/index.html",
+    "main.24f52fc6.css.map": "/Stavana-site/static/css/main.24f52fc6.css.map",
+    "main.20577a03.js.map": "/Stavana-site/static/js/main.20577a03.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4f97e32.css",
+    "static/css/main.24f52fc6.css",
     "static/js/main.20577a03.js"
   ]
 }
